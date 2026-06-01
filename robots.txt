@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pv-copilot.lisekarimi.com/sitemap.xml
